@@ -1,2 +1,6 @@
 # tic_tac_toe
-tic_tac_toe game in rust using min-max
+
+Some time ago I wrote minmax for tic tac toe in C++, now I want to write it in rust, trying more different apporaches.
+
+Work in progress...
+
